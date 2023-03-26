@@ -15,7 +15,7 @@ echo $bot2 -> name;
 
 
 
-$box = ['JavaScript', 'Java', 'PHP', '.NET', 'C#'];
+$box = ['JavaScript', 'Java', 'PHP', '.NET', 'C#', 'Python'];
 
 
 echo "<pre>";
